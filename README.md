@@ -22,7 +22,7 @@ npx playwright test
 
 ---
 
-## 🧪 Test Cases Designed (ออกแบบ Test Cases)
+## 🧪 Test Cases
 
 The automation script (`tests/todo-app.spec.js`) is designed as a continuous End-to-End (E2E) user flow. It verifies the following core functionalities:
 
@@ -34,7 +34,7 @@ The automation script (`tests/todo-app.spec.js`) is designed as a continuous End
 
 ---
 
-## 🏗️ Project Structure (โครงสร้างที่เหมาะสมและยั่งยืน)
+## 🏗️ Project Structure
 
 This project utilizes Playwright's standard structure, which provides a scalable and sustainable foundation for UI automation:
 
